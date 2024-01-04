@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="libs/batik-all-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-anim-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-awt-util-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-bridge-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-codec-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-constants-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-css-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-dom-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-ext-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-extension-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-gui-util-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-gvt-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-i18n-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-parser-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-script-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-shared-resources-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-svgbrowser-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-svg-dom-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-svggen-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-svgrasterizer-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-swing-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-test-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-test-old-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-test-svg-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-test-swing-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-transcoder-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-util-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/batik-util-1.17-tests.jar"/>
+	<classpathentry kind="lib" path="libs/batik-xml-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/fop-transcoder-allinone-2.9.jar"/>
+	<classpathentry kind="lib" path="libs/LICENSE.dom-documentation.txt"/>
+	<classpathentry kind="lib" path="libs/LICENSE.dom-software.txt"/>
+	<classpathentry kind="lib" path="libs/LICENSE.fop-transcoder-allinone-2.9.txt"/>
+	<classpathentry kind="lib" path="libs/LICENSE.rhino-1.7.7.txt"/>
+	<classpathentry kind="lib" path="libs/LICENSE.sax.txt"/>
+	<classpathentry kind="lib" path="libs/LICENSE.serializer-2.7.2.txt"/>
+	<classpathentry kind="lib" path="libs/LICENSE.xmlgraphics-commons-2.9.txt"/>
+	<classpathentry kind="lib" path="libs/NOTICE.serializer-2.7.2.txt"/>
+	<classpathentry kind="lib" path="libs/NOTICE.xmlgraphics-commons-2.9.txt"/>
+	<classpathentry kind="lib" path="libs/README.fop-transcoder-allinone-2.9.txt"/>
+	<classpathentry kind="lib" path="libs/README.rhino-1.7.7.txt"/>
+	<classpathentry kind="lib" path="libs/README.xml-apis-1.4.01.txt"/>
+	<classpathentry kind="lib" path="libs/README.xml-apis-ext-1.3.04.txt"/>
+	<classpathentry kind="lib" path="libs/rhino-1.7.7.jar"/>
+	<classpathentry kind="lib" path="libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="libs/Squiggle.icns"/>
+	<classpathentry kind="lib" path="libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="libs/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="libs/xmlgraphics-commons-2.9.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
